@@ -1,0 +1,19 @@
+body {
+  height: 100vh;
+  padding-block: 48px;
+  padding-inline: 48px;
+
+  /* font-family: "Poppins"; */
+}
+
+.mainContainer {
+  display: flex;
+}
+
+.cardSection {
+  background-color: #ffede1;
+  display: flex;
+  flex: 2;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
